@@ -3,8 +3,10 @@
     "displayTitle":"穆尘的博客",
     "subTitle":"穆穆惠风，扇彼轻尘",
     "homeUrl":"http://muchen.blog",
-    "avatarUrl":"",
-    "faviconUrl":"",
+    "avatarUrl":"https://github.com/d100972/d100972.github.io/blob/main/logo.svg",
+    "faviconUrl":"https://github.com/d100972/d100972.github.io/blob/main/logo.svg",
     "singlePage":[],
+    "nightTheme":"dark_colorblind",
+    "onePageListNum":15,
     "GMEEK_VERSION":"last"
 }
